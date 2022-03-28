@@ -55,15 +55,20 @@
 
   <br />
 
-<img align="left" alt="TJ's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TJ-Blinn&show_icons=true&theme=vue-dark"/>&nbsp;
+<img align="left" alt="TJ's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TJ-Blinn&show_icons=true&theme=vue-dark"/>&nbsp;&nbsp;
+
+<br />
 
 ---
 
-## Most Used Languages
+<details>
+  <summary>Most Used Languages</summary>
 
 <br />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TJ-Blinn&layout=compact"/>&nbsp;
+
+</details>
 
 <!-- Insert portfolio website here -->
 
