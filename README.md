@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning full-stack web-development
 - 👯 I’m looking to create new apps, games and websites to hone my craft
-- 🥅 2022 Goals: Learn more about the PERN stack to develop full-stack web apps: This stack consists of PostgreSQL, Express, React, and Node.js.
+- 🥅 2023 Goals: Learn and develop more with the PERN stack to develop full-stack web apps and convert my favorite card games into vanilla javascript games. 
 - 🎲 Fun fact: I love tabletop boardgames and am working at designing my own
 
 <br />
